@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:monospace;
+}
+
+body {
+    background-color: black;
+    color:white;
+}
+
+.hi{
+    display:flex;
+    justify-content: center;
+    padding: 40px;
+    /* background-color: aquamarine; */
+}
+
+.name{
+    padding: 100px;
+}
+
+#name{
+    font-size: 350px;
+    text-decoration: underline;
+}
+
+#g{
+    color:aqua;
+}
+
+#box1{
+    background-color: azure;
+    height: 50px;
+    width: 50px;
+    
+}
+
+#container1{
+    display: flex;
+    justify-content: right;
+    transition: 3s;
+}
+
+#box2{
+    background-color: azure;
+    height: 50px;
+    width: 50px;
+}
+
